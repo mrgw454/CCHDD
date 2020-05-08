@@ -6,6 +6,11 @@ As some of you know, I'm a huge fan of Brett Gordon's YA-DOS and Michael Furman'
 I've created a Coco compatible hard drive image that contains over 3,000 virtual floppy disks.  All of the disk images are provided by Guillaume Major's excellent TRS-80 Color Computer Archive website.
 Included with the hard drive image is a PDF document that contains a listing (index) of all the floppy disk images contained inside the hard drive image.
 
+A teaser video can be found here:
+
+https://www.youtube.com/watch?v=riNy1nA0_GI
+
+
 In order to use this hard drive image, you will need a copy of the latest version of YA-DOS (0.5a at the time of this document) which has been included in this ZIP file.  In addition, you will need a working installation of pyDriveWire.
 
 The hard drive image itself has been tested on the following Coco platforms:
